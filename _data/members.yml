@@ -1,0 +1,9 @@
+- name: Eric Mill
+  role: CEO
+  image: img/services/dog.png
+
+- name: Parker Moore
+  role: CTO
+
+- name: Liu Fengyun
+  role: A caso
