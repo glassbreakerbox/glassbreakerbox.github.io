@@ -177,3 +177,28 @@ p.copyright {
 	margin-bottom: 0;
 }
 
+.img-circle {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.65);
+	margin: 1em 25px;
+}
+
+.team-container {
+	width: 600px;
+	margin: auto;
+	max-width: 100%;
+}
+
+.team-member {
+	width: 200px;
+	margin: 0 auto;
+	float: left;
+}
+
+.member-description {
+	font-weight: 500;
+	margin-bottom: 3em;
+}
+

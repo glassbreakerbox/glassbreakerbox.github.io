@@ -1,12 +1,16 @@
-<section id="team">
-<ul>
-{% for member in site.data.members %}
-  <li>
-      {{ member.name }}
-      {{ member.role }}
-      <img class="img-responsive" src="{{ member.image }}" alt="">
-    </a>
-  </li>
-{% endfor %}
-</ul>
+<section id="team" class="container content-section">
+	<div class="row">
+		<br></br>
+		<h2 class="section-heading text-center">The Team</h2>
+		<div class="team-container">
+			{% for member in site.data.members %}
+				<div class="team-member text-center">
+					<img class="img-circle" src="{{ member.image }}"
+						alt="Image for {{ member.name }}">
+			  		<p>{{ member.name }}</p>
+			  		<p class="member-description">{{ member.description }}</p>
+			  	</div>
+			{% endfor %}
+		</div>
+	</div>
 </section>
