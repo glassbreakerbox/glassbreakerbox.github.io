@@ -10,3 +10,15 @@ text is written in markdown (see above) and they should contain an image
 `_includes/about.html` has to be modified with a general description of our 
 product and maybe a video demonstration can be embedded.
 
+## Building and trying the webpage
+
+Jekyll has to be installed on your PC, see the link above for instructions on
+how to install it. Basically you need to have ruby and gem installed before
+proceding.
+
+After you have modified something run the command `jekyll build`.
+
+To try the webpage locally run `jekyll serve`.
+
+If you are satisfied with your modifications commit and push the changes to the
+repository.
