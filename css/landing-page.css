@@ -186,15 +186,22 @@ p.copyright {
 }
 
 .team-container {
-	width: 600px;
+	width: 660px;
 	margin: auto;
 	max-width: 100%;
 }
 
 .team-member {
 	width: 200px;
-	margin: 0 auto;
+	margin: 0 10px;
 	float: left;
+}
+
+@media screen and (max-device-width: 439px) {
+	.team-member{
+		margin: auto;
+		float: none
+	}
 }
 
 .member-description {
