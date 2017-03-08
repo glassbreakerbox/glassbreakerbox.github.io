@@ -1,11 +1,11 @@
 - name: Eric Mill
-  image: img/services/dog.png
+  image: img/team/dog.png
   description: Just one sentence
 
 - name: Parker Moore
-  image: img/services/dog.png
+  image: img/team/dog.png
   description: Just one sentence, please!
 
 - name: Liu Fengyun
-  image: img/services/ipad.png
+  image: img/team/ipad.png
   description: One sentence
