@@ -2,9 +2,10 @@
   image: img/team/MG.jpg
   description: PhD in Telecommunication Engineering
 
-- name: Parker Moore
-  image: img/team/dog.png
-  description: Just one sentence, please!
+- name: Leonardo Marcon
+  image: img/team/LM.jpg
+  description: PhD in Telecommunication Engineering
+
 
 - name: Liu Fengyun
   image: img/team/ipad.png
