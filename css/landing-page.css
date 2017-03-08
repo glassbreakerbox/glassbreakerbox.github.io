@@ -193,12 +193,13 @@ p.copyright {
 
 .team-member {
 	width: 200px;
+	height: 300px;
 	margin: 0 10px;
 	float: left;
 }
 
 @media screen and (max-device-width: 439px) {
-	.team-member{
+	.team-member {
 		margin: auto;
 		float: none
 	}
@@ -206,6 +207,4 @@ p.copyright {
 
 .member-description {
 	font-weight: 500;
-	margin-bottom: 3em;
 }
-
