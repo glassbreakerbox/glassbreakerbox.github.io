@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Window Breaker
-email: your-email@domain.com
-author: Fantastic Team
+url: https://glassbreakerbox.github.io/
+title: Glass Breaker Box
+email: glassbreakerbox@gmail.com
+author: GBB Team
 description: > # "Write an awesome description for your new site here. 
-  Hello this is a basic description of our glass breaker
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+  Glass Breaker Box: the new safety device for public transport.
+copyright: 'Copyright &copy; 2017 GBB Inc. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -24,9 +24,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    url: https://github.com/glassbreakerbox
+  - title: email
+    url: mailto:glassbreakerbox@gmail.com
+
