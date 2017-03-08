@@ -5,4 +5,10 @@ category: Features
 title: Basic Design
 description: |
 ---
-  Describe why a basic design improves the safety of the product
+  The Glass Breaking Box (GBB) is a fundamental safety device for every vehicle. Its most relevant characteristics are listed here.
+
+  <big><b>Compact:</b></big> The GBB is designed to be a compact device, to reduce spatial occupation and costs. It is easy to deploy and maintain, but at the same time do not obstruct the passengers' vista.
+
+  <big><b>Secure Smart Triggering:</b></big> Our device do not necessary require human intervention. In extreme cases, when it is dangerous to act, the GBB automatically trigger allowing the passengers to escape safely.
+
+  <big><b>Customizable:</b></big> Not all vehicles have the same requirements. The GBB can be customized to fit perfectly all the situations, allowing an unmatched versatibility.
