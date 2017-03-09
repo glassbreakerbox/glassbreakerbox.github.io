@@ -5,4 +5,4 @@ category: Features
 title: Retro Fit
 description: |
 ---
-Retro-fit: describe how it can be applied to existing vehicles
+GBB can be simply attached to the window panels, without any glass modifications. Thanks to its customization properties, GBB can work with windows of any size and any thickness.
