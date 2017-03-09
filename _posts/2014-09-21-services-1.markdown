@@ -5,4 +5,10 @@ category: Features
 title: Panic Proof
 description: |
 ---
-  Describe why our product is panic proof. Change the img: attribute as you wish.
+  Glass Breaking Box is completely panic proof thanks to its automated control system. 
+
+ ----
+
+  Differently from a hammer glass breaker, GBB is easier to use, always ready to operate and you don't have to find it. 
+
+  In a state of emergency, secure smart triggering automatically breaks the glass creating an escape route. 
