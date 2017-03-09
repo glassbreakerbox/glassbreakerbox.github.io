@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: plot.jpg
 category: Features
 title: Panic Proof
 description: |
