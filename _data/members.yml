@@ -26,10 +26,10 @@
   image: img/team/DZ.jpg
   description: PhD in Telecommunication Engineering
 
-- name: Your Name
-  image: img/team/dog.png
-  description: Just one sentence, please!
+- name: Yongheng Zhao
+  image: img/team/YZ.png
+  description: PhD in Information Engineering
 
-- name: Your Name
-  image: img/team/ipad.png
-  description: One sentence
+- name: Qing Liu
+  image: img/team/QL.png
+  description: PhD in Electrical Engineering
