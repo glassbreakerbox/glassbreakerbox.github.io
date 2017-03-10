@@ -186,9 +186,15 @@ p.copyright {
 }
 
 .team-container {
-	width: 660px;
+	width: 1100px;
 	margin: auto;
 	max-width: 100%;
+}
+
+@media screen and (max-device-width: 1099px) {
+	.team-container {
+		width: 440px;
+	}
 }
 
 .team-member {
@@ -202,6 +208,9 @@ p.copyright {
 	.team-member {
 		margin: auto;
 		float: none
+	}
+	.team-container {
+		width: 100%;
 	}
 }
 

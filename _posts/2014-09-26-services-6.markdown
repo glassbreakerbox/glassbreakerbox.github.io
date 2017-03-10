@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: phones.jpg
 category: Features
 title: Retro Fit
 description: |
