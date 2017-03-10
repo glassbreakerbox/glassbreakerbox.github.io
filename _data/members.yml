@@ -1,21 +1,25 @@
 - name: Yongheng Zhao
-  image: img/team/YZ.png
+  image: img/team/YZ.jpg
   description: PhD in Information Engineering
 
 - name: Qing Liu
-  image: img/team/QL_square.png
+  image: img/team/QL.jpg
   description: PhD in Electrical Engineering
 
 - name: Marco Giordani
   image: img/team/MG.jpg
   description: PhD in Telecommunication Engineering
 
+- name: Dlamini Thembelihle
+  image: img/team/DT.jpg
+  description: PhD in Information Engineering
+
 - name: Leonardo Marcon
   image: img/team/LM.jpg
   description: PhD in Telecommunication Engineering
 
 - name: Mattia Rebato
-  image: img/team/MR.png
+  image: img/team/MR.jpg
   description: PhD in Telecommunication Engineering
 
 - name: Paolo Scaramuzza
@@ -23,7 +27,7 @@
   description: PhD in Electrical Engineering
 
 - name: Michele Polese
-  image: img/team/MP.png
+  image: img/team/MP.jpg
   description: PhD in Telecommunication Engineering
 
 - name: Filippo Campagnaro
@@ -33,9 +37,3 @@
 - name: Daniel Zucchetto
   image: img/team/DZ.jpg
   description: PhD in Telecommunication Engineering
-
-- name: Thembelihle Dlamini
-  image: img/team/IMG_0507.png
-  description: PhD in Telecommunication Engineering
-
-
