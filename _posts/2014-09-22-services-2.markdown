@@ -1,6 +1,6 @@
 ---
 layout: default
-img: basic_design_2.jpg
+img: basic_design_2_small.jpg
 category: Features
 title: Basic Design
 description: |
