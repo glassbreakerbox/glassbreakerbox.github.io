@@ -1,3 +1,11 @@
+- name: Yongheng Zhao
+  image: img/team/YZ.png
+  description: PhD in Information Engineering
+
+- name: Qing Liu
+  image: img/team/QL.png
+  description: PhD in Electrical Engineering
+
 - name: Marco Giordani
   image: img/team/MG.jpg
   description: PhD in Telecommunication Engineering
@@ -26,10 +34,8 @@
   image: img/team/DZ.jpg
   description: PhD in Telecommunication Engineering
 
-- name: Yongheng Zhao
-  image: img/team/YZ.png
-  description: PhD in Information Engineering
+- name: Thembelihle Dlamini
+  image: img/team/IMG_0507.JPG
+  description: PhD in Telecommunication Engineering
 
-- name: Qing Liu
-  image: img/team/QL.png
-  description: PhD in Electrical Engineering
+
