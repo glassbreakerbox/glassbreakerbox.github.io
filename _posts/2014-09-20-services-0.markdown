@@ -5,6 +5,6 @@ category: Features
 title: The Device
 description: |
 ---
-  The bus on which you are travelling crashes. You need to look for the hammer, and try to break the windows to get out. You waste precious time, you are in panic.
+  If the bus on which you are travelling crashes, you may need to look for the hammer and try to break the windows to get out. You waste precious time, you may fail, you are in panic.
 
-  With our product you can escape immediately, without any hassle, just by pressing a button: the window will certainly break, and you can simply use your safe way out. 
+  With our product you can escape immediately, without any trouble, just by pressing a button: the window will certainly break, safely opening the way out for everyone. 
